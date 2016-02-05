@@ -3,8 +3,8 @@
 Event: [DEVCONF Brno 2016](http://devconf.cz/)
 
 Speakers: 
-- [Brian Exelbierd @bexelbie] (https://twitter.com/bexelbie)
-- [Navid Shaikh @swordphilic] (https://twitter.com/swordphilic)
+- [Brian Exelbierd @bexelbie] (https://twitter.com/bexelbie) bex@pobox.com | bexelbie@redhat.com
+- [Navid Shaikh @swordphilic] (https://twitter.com/swordphilic) nshaikh@redhat.com
 
 ## Talk Synopsis:
 The Atomic Developer bundle (ADB) is a development environment for
