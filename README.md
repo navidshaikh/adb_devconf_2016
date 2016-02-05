@@ -24,6 +24,6 @@ and how you can make it better.
 
 ## Demo
 
-- ["Command Line Carl"](carl)
+- ["Command Line Carla"](carla)
 - ["IDE Igor"](igor)
 - ["My Environment Mike"](mike)
